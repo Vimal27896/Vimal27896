@@ -135,7 +135,7 @@ I enjoy turning ideas into practical solutions by combining programming fundamen
 
 <br>
 
-<a href="https://github.com/Vimal27896">
+<a href="https://github.com/Vimal27896/AI-DPR-SYSTEM">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -163,7 +163,7 @@ I enjoy turning ideas into practical solutions by combining programming fundamen
 
 <br>
 
-<a href="https://github.com/Vimal27896">
+<a href="https://github.com/VamanPrabhakar-03/cognizant-team-project">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -195,7 +195,7 @@ I enjoy turning ideas into practical solutions by combining programming fundamen
 
 <br>
 
-<a href="https://github.com/Vimal27896">
+<a href="https://github.com/Vimal27896/Matx">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -223,7 +223,7 @@ I enjoy turning ideas into practical solutions by combining programming fundamen
 
 <br>
 
-<a href="https://github.com/Vimal27896">
+<a href="https://github.com/Vimal27896/Landslide_Prediction">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -244,7 +244,7 @@ I enjoy turning ideas into practical solutions by combining programming fundamen
 
 ```text
                     ┌─────────────────────┐
-                    │   SOFTWARE ENGINEER  │
+                    │   SOFTWARE ENGINEER │
                     └──────────┬──────────┘
                                │
              ┌─────────────────┼─────────────────┐
@@ -401,22 +401,3 @@ Achieved through **team collaboration, problem-solving and rapid project develop
 </div>
 ```
 
-### One important improvement before publishing
-
-The **project links currently point to your profile**, because I don't want to invent repository URLs that may not exist. Replace each of these:
-
-```text
-https://github.com/Vimal27896
-```
-
-with the actual repository URL, for example:
-
-```text
-https://github.com/Vimal27896/AI-DPR-SYSTEM
-```
-
-That will make the project cards substantially more useful to recruiters.
-
-Also, I deliberately kept **Spring Boot under "Currently Learning"** rather than presenting it as established professional experience. That makes the profile look ambitious without overclaiming.
-
-**Best final setup:** pin your **AI-DPR, HCC Assistant, MAT-X, and Landslide** repositories underneath this README, with a strong repository README for each. That gives recruiters a clean path from **profile → project → implementation → code**.
