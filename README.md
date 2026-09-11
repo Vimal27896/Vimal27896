@@ -1,203 +1,422 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-# Hi 👋, I'm Vimalesh S
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=VIMALESH%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### Java Developer | AI/ML Enthusiast | Backend Developer
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+Developer;Backend+Development+Enthusiast;AI+%26+Machine+Learning+Enthusiast;Generative+AI+Explorer;Building+Practical+Technology+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+practical+software+solutions;Java+%7C+Python+%7C+SQL;Backend+Development+%7C+REST+APIs;Artificial+Intelligence+%7C+Machine+Learning;Exploring+Generative+AI+%26+Cloud+Technologies" alt="Typing animation"/>
 
-<br/>
+<br><br>
 
 <a href="https://github.com/Vimal27896">
-  <img src="https://img.shields.io/github/followers/Vimal27896?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers"/>
+<img src="https://img.shields.io/badge/GitHub-Vimal27896-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/Vimal27896?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Vimal27896?label=Stars&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars"/>
+<a href="https://www.linkedin.com/in/vimalesh-s-a474a7317/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Vimal27896&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
 
-## 👨‍💻 About Me
+## `01` — About Me
 
-I'm **Vimalesh**, an engineering student passionate about building practical software solutions using **Java, Python, SQL, Artificial Intelligence, and Cloud technologies**.
+```java
+public class Vimalesh {
 
-- 🎓 Engineering student at **RMD Engineering College, Chennai**
-- 💻 Focused on **Java and backend-oriented development**
-- 🤖 Interested in **AI, Machine Learning & Generative AI**
-- ☁️ Exploring **Microsoft Azure and cloud-based applications**
-- 🗄️ Interested in **SQL, databases and data-driven systems**
-- 🏆 Hackathon winner with a **team-first approach**
-- 🚀 Enjoy building projects that combine software development with AI
-- 📚 Continuously learning and improving my development skills
+    String role = "ML Developer";
+    String[] interests = {
+        "Backend Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Generative AI",
+        "Cloud Technologies"
+    };
 
-> **My goal:** Build reliable, practical and scalable software while continuously growing as a developer.
+    String[] languages = {"Java", "Python", "SQL"};
+
+    String mindset =
+        "Learn → Build → Test → Improve";
+
+}
+```
+
+I'm an engineering student passionate about **software development, backend systems and AI-driven applications**.
+
+I enjoy turning ideas into practical solutions by combining programming fundamentals, databases, APIs, machine learning and cloud technologies.
+
+* 🎓 Engineering Student — RMD Engineering College, Chennai
+* ☕ Focused on **Java & backend development**
+* 🐍 Experienced with **Python & AI/ML projects**
+* 🗄️ Comfortable working with **SQL & databases**
+* ☁️ Exploring **Microsoft Azure**
+* 🤖 Interested in **Generative AI & intelligent applications**
+* 🏆 Hackathon Winner — **1st Place | ₹50,000 Prize**
+* 🤝 Strong believer in **teamwork, problem-solving and continuous learning**
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+## `02` — Tech Stack
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### 💻 Programming Languages
+### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,sql" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js" />
 
-### ⚙️ Backend & Development
+<br><br>
 
-<p>
+### Backend & APIs
+
 <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" />
-</p>
 
-### 🌐 Frontend
+<br><br>
 
-<p>
+### Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
 
-### 🗄️ Database
+<br><br>
 
-<p>
+### Databases
+
 <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-</p>
 
-### ☁️ Cloud & Tools
+<br><br>
 
-<p>
+### Cloud & Developer Tools
+
 <img src="https://skillicons.dev/icons?i=azure,git,github,vscode,linux" />
-</p>
 
-### 🤖 AI / ML
+</div>
 
-<p>
+<br>
 
-`Machine Learning` • `Deep Learning` • `Generative AI` • `Natural Language Processing`
+<div align="center">
 
-</p>
+`Java` `Python` `SQL` `REST APIs` `FastAPI` `PostgreSQL` `Machine Learning` `Deep Learning` `NLP` `Generative AI` `Azure` `Git`
 
----
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-
-## 🚀 Featured Projects
-
-### 🏛️ AI-Powered DPR Quality Assessment & Risk Prediction
-
-**AI-powered system for assessing Detailed Project Reports (DPRs) and identifying potential project risks.**
-
-**Tech:** Python • spaCy • Machine Learning • NLP • FastAPI
-
-- Automated extraction of important information from DPR documents
-- NLP-based identification of project information
-- Rule-based quality assessment
-- ML-based risk prediction
-- Designed for supporting DPR review and decision-making
+</div>
 
 ---
 
-### 🏥 Risk Adjustment & HCC Suspecting Assistant
+## `03` — Featured Projects
 
-**AI-assisted system for identifying potential documentation gaps in Medicare Advantage workflows.**
+<div align="center">
 
-**Tech:** Python • FastAPI • PostgreSQL • React • Azure • AI
+<table>
+<tr>
 
-- Processes synthetic member diagnosis and encounter history
-- Uses ICD-10 to HCC mapping
-- Identifies potential documentation gaps
-- Uses evidence-based priority scoring
-- Designed to support human reviewers
-- The system **suspects potential gaps rather than automatically assigning diagnoses**
+<td width="50%" valign="top">
+
+### 🏛️ AI-DPR
+
+**AI-Powered DPR Quality Assessment & Risk Prediction System**
+
+> An intelligent system designed to analyze Detailed Project Reports and support quality assessment and project-risk prediction.
+
+**Core Features**
+
+* 📄 Automated DPR information extraction
+* 🔍 NLP-based document analysis
+* 📊 Rule-based quality assessment
+* 🤖 Machine learning risk prediction
+* ⚡ FastAPI backend architecture
+
+**Stack**
+
+`Python` `spaCy` `NLP` `ML` `FastAPI`
+
+<br>
+
+<a href="https://github.com/Vimal27896">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏥 HCC Suspecting Assistant
+
+**Risk Adjustment & Documentation Gap Analysis**
+
+> An evidence-based assistant designed to identify potential documentation gaps for human review.
+
+**Core Features**
+
+* 🧾 Diagnosis & encounter history analysis
+* 🔗 ICD-10 → HCC mapping
+* 🔎 Potential documentation gap detection
+* 📌 Evidence-based priority scoring
+* 👨‍⚕️ Human-review workflow
+
+**Stack**
+
+`Python` `FastAPI` `PostgreSQL` `React` `Azure`
+
+<br>
+
+<a href="https://github.com/Vimal27896">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧱 MAT-X
+
+**AI-Powered Material Overload Predictor**
+
+> A machine-learning application for predicting construction material requirements from project parameters.
+
+**Core Features**
+
+* 📐 Construction parameter analysis
+* 🤖 ML-based material prediction
+* 🧱 Cement, steel, sand & brick estimation
+* ⚡ FastAPI prediction API
+* 📊 Visualization support
+
+**Stack**
+
+`Python` `Random Forest` `FastAPI` `ML`
+
+<br>
+
+<a href="https://github.com/Vimal27896">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌋 Landslide AI
+
+**Landslide Detection & Early Warning System**
+
+> An AI and IoT-based solution for detecting landslide-prone regions and supporting early-warning workflows.
+
+**Core Features**
+
+* 🛰️ Satellite imagery analysis
+* 🧠 Deep learning classification
+* 🗺️ Image segmentation
+* 📡 IoT sensor integration
+* 🚨 Early-warning support
+
+**Stack**
+
+`Python` `ResNet50` `DeepLabV3` `Deep Learning` `IoT`
+
+<br>
+
+<a href="https://github.com/Vimal27896">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+> **Note:** Replace each `VIEW PROJECT` link with the actual repository URL once the corresponding repositories are public.
 
 ---
 
-### 🧱 MAT-X — AI-Powered Material Overload Predictor
+## `04` — What I'm Building Toward
 
-**AI-based material estimation and visualization system for construction planning.**
-
-**Tech:** Python • Machine Learning • Random Forest • FastAPI
-
-- Predicts construction material requirements
-- Uses project parameters such as plot area, floors and parking
-- Provides material estimates for cement, steel, sand and bricks
-- Backend API developed using FastAPI
-- Designed for fast prediction and visualization
-
----
-
-### 🌋 Landslide Detection & Early Warning System
-
-**AI and IoT-based system for landslide detection and early warning.**
-
-**Tech:** Python • Deep Learning • ResNet50 • DeepLabV3 • IoT
-
-- Uses satellite imagery for landslide detection
-- Deep learning based image classification and segmentation
-- Integrates environmental sensor data
-- Designed for early warning and disaster-response support
-
----
-
-<!-- ===================== CERTIFICATIONS ===================== -->
-
-## 📜 Certifications
-
-- 🟦 **Microsoft Azure Developer Associate**
-- ☕ **Oracle Certified Java SE 17 Developer**
-- 🤖 **Oracle Generative AI Professional**
-- ☁️ **NPTEL Cloud Computing**
-
----
-
-<!-- ===================== EXPERIENCE ===================== -->
-
-## 💼 Experience & Activities
-
-### 👨‍💻 Web Development Internship
-**Inspire Softech Solutions, Chennai**
-
-- Worked with HTML, CSS and JavaScript
-- Developed foundational web development skills
-- Worked with DOM manipulation and basic scripting
-
-### 🏆 Hackathon
-
-**Hackathon 3.0 — SRMS College of Engineering and Technology**
-
-🥇 **1st Place**
-
-💰 **₹50,000 Prize**
-
-> Achieved through collaborative teamwork, problem solving and rapid project development.
-
-### 🎯 Leadership & Activities
-
-- Team Leader in hackathon projects
-- Organized college technical symposium activities
-- IEEE Member
-- School-level Volleyball Zonal Participant
-
----
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-## 🎯 Currently Exploring
+<div align="center">
 
 ```text
-Java Backend Development
-        ↓
-Spring Boot & REST APIs
-        ↓
-SQL & Database Design
-        ↓
-Cloud Development with Azure
-        ↓
-AI / ML Integration
-        ↓
-Generative AI Applications
+                    ┌─────────────────────┐
+                    │   SOFTWARE ENGINEER  │
+                    └──────────┬──────────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             ▼                 ▼                 ▼
+       ┌───────────┐     ┌───────────┐     ┌───────────┐
+       │   JAVA    │     │  BACKEND  │     │    AI     │
+       │           │     │           │     │   / ML    │
+       └─────┬─────┘     └─────┬─────┘     └─────┬─────┘
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               ▼
+                    ┌─────────────────────┐
+                    │ PRACTICAL SOLUTIONS │
+                    └─────────────────────┘
+```
+
+</div>
+
+---
+
+## `05` — Certifications
+
+<div align="center">
+
+| Certification                              |        Area       |
+| :----------------------------------------- | :---------------: |
+| 🟦 **Microsoft Azure Developer Associate** | Cloud Development |
+| ☕ **Oracle Certified Java SE 17**          |  Java Development |
+| 🤖 **Oracle Generative AI Professional**   |   Generative AI   |
+| ☁️ **NPTEL Cloud Computing**               |  Cloud Computing  |
+
+</div>
+
+---
+
+## `06` — Experience & Achievements
+
+### 💼 Web Development Intern
+
+**Inspire Softech Solutions, Chennai**
+
+* Worked with HTML, CSS and JavaScript
+* Built foundational web development experience
+* Worked with DOM manipulation and basic scripting
+
+### 🏆 Hackathon 3.0 — 1st Place
+
+**SRMS College of Engineering and Technology**
+
+<div align="center">
+
+### 🥇 FIRST PLACE
+
+### ₹50,000 PRIZE
+
+</div>
+
+Achieved through **team collaboration, problem-solving and rapid project development**.
+
+### 🎯 Leadership
+
+* Team Leader in hackathon projects
+* Organized college technical symposium activities
+* IEEE Member
+* School-level Volleyball Zonal Participant
+
+---
+
+## `07` — GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vimal27896&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimal27896&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vimal27896&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+</div>
+
+---
+
+## `08` — Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vimal27896&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## `09` — Currently Learning
+
+<div align="center">
+
+| 🔥 Focus        | 🎯 Goal                        |
+| :-------------- | :----------------------------- |
+| ☕ Java          | Strong backend fundamentals    |
+| 🌱 Spring Boot  | REST API development           |
+| 🗄️ SQL         | Database design & optimization |
+| ☁️ Azure        | Cloud application development  |
+| 🤖 AI / ML      | Practical intelligent systems  |
+| ✨ Generative AI | AI-powered applications        |
+
+</div>
+
+---
+
+## `10` — Developer Mindset
+
+<div align="center">
+
+### `"Don't just learn the technology. Build with it."`
+
+<br>
+
+**Learn** → **Understand** → **Build** → **Break** → **Debug** → **Improve**
+
+</div>
+
+---
+
+## `11` — Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Vimal27896">
+<img src="https://img.shields.io/badge/GitHub-Vimal27896-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vimalesh-s-a474a7317/">
+<img src="https://img.shields.io/badge/LinkedIn-Vimalesh%20S-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🤝 Open to learning, collaborating and building meaningful projects.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:161b22,100:0d1117&height=120&section=footer"/>
+
+</div>
+```
+
+### One important improvement before publishing
+
+The **project links currently point to your profile**, because I don't want to invent repository URLs that may not exist. Replace each of these:
+
+```text
+https://github.com/Vimal27896
+```
+
+with the actual repository URL, for example:
+
+```text
+https://github.com/Vimal27896/AI-DPR-SYSTEM
+```
+
+That will make the project cards substantially more useful to recruiters.
+
+Also, I deliberately kept **Spring Boot under "Currently Learning"** rather than presenting it as established professional experience. That makes the profile look ambitious without overclaiming.
+
+**Best final setup:** pin your **AI-DPR, HCC Assistant, MAT-X, and Landslide** repositories underneath this README, with a strong repository README for each. That gives recruiters a clean path from **profile → project → implementation → code**.
