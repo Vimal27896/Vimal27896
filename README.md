@@ -1,36 +1,95 @@
-<div align="center">
+<!-- =========================================================
+     VIMALESH S — GITHUB PROFILE README
+     PDF-INSPIRED BLACK / BLUE DEVELOPER DESIGN
+     ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=VIMALESH%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- ======================== HERO ======================== -->
 
-<br>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0B1F3A,100:0066FF&height=220&section=header&text=VIMALESH%20S&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20%7C%20AI%20%7C%20BACKEND&descAlignY=58&descSize=17&animation=fadeIn"
+    width="100%"
+    alt="Vimalesh S GitHub Header"
+  />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+practical+software+solutions;Java+%7C+Python+%7C+SQL;Backend+Development+%7C+REST+APIs;Artificial+Intelligence+%7C+Machine+Learning;Exploring+Generative+AI+%26+Cloud+Technologies" alt="Typing animation"/>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Building+practical+software+solutions;Java+%7C+Python+%7C+SQL;Backend+Development+%7C+REST+APIs;Artificial+Intelligence+%7C+Machine+Learning;Exploring+Generative+AI+%26+Cloud+Technologies"
+      width="100%"
+      style="max-width:700px;"
+      alt="Typing introduction"
+    />
+  </a>
+</p>
 
-<br><br>
+<!-- ======================== SOCIAL ======================== -->
 
-<a href="https://github.com/Vimal27896">
-<img src="https://img.shields.io/badge/GitHub-Vimal27896-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/vimalesh-s-1bbba53a8/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
 
-<br><br>
+  <a href="https://github.com/Vimal27896">
+    <img
+      src="https://img.shields.io/badge/GitHub-Profile-0B1F3A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=05070D"
+      alt="GitHub"
+    />
+  </a>
 
-<img src="https://komarev.com/ghpvc/?username=Vimal27896&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/vimalesh-s-a474a7317/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=05070D"
+      alt="LinkedIn"
+    />
+  </a>
 
-</div>
+</p>
 
----
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Vimal27896&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
+<br/>
 
-## `01` — About Me
+<!-- ======================== ABOUT ======================== -->
+
+<h2 align="center">01 — ABOUT ME</h2>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&height=30&lines=Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve"
+    width="100%"
+    style="max-width:650px;"
+    alt="Developer mindset"
+  />
+</p>
+
+<p align="center">
+  Engineering student focused on building practical software solutions,
+  backend systems, and AI-driven applications.
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-05070D?style=flat-square&labelColor=0B1F3A&color=38BDF8" alt="Status" />
+
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-05070D?style=flat-square&labelColor=0B1F3A&color=38BDF8" alt="Focus" />
+
+  <img src="https://img.shields.io/badge/College-RMD%20Engineering%20College-05070D?style=flat-square&labelColor=0B1F3A&color=38BDF8" alt="College" />
+
+</p>
+
+<br/>
+
+<p align="center">
 
 ```java
 public class Vimalesh {
 
     String role = "ML Developer";
+
     String[] interests = {
         "Backend Development",
         "Artificial Intelligence",
@@ -39,7 +98,11 @@ public class Vimalesh {
         "Cloud Technologies"
     };
 
-    String[] languages = {"Java", "Python", "SQL"};
+    String[] languages = {
+        "Java",
+        "Python",
+        "SQL"
+    };
 
     String mindset =
         "Learn → Build → Test → Improve";
@@ -47,357 +110,616 @@ public class Vimalesh {
 }
 ```
 
-I'm an engineering student passionate about **software development, backend systems and AI-driven applications**.
+</p>
 
-I enjoy turning ideas into practical solutions by combining programming fundamentals, databases, APIs, machine learning and cloud technologies.
+<p align="center">
+  I enjoy exploring software engineering, backend development,
+  artificial intelligence, machine learning, databases,
+  cloud technologies and generative AI.
+</p>
 
-* 🎓 Engineering Student — RMD Engineering College, Chennai
-* ☕ Focused on **Java & backend development**
-* 🐍 Experienced with **Python & AI/ML projects**
-* 🗄️ Comfortable working with **SQL & databases**
-* ☁️ Exploring **Microsoft Azure**
-* 🤖 Interested in **Generative AI & intelligent applications**
-* 🏆 Hackathon Winner — **1st Place | ₹50,000 Prize**
-* 🤝 Strong believer in **teamwork, problem-solving and continuous learning**
+<!-- ======================== FOCUS CARDS ======================== -->
 
----
-
-## `02` — Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,js" />
-
-<br><br>
-
-### Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" />
-
-<br><br>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-<br><br>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-
-<br><br>
-
-### Cloud & Developer Tools
-
-<img src="https://skillicons.dev/icons?i=azure,git,github,vscode,linux" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-`Java` `Python` `SQL` `REST APIs` `FastAPI` `PostgreSQL` `Machine Learning` `Deep Learning` `NLP` `Generative AI` `Azure` `Git`
-
-</div>
-
----
-
-## `03` — Featured Projects
-
-<div align="center">
-
-<table>
+<table width="100%" align="center">
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🏛️ AI-DPR
+### BACKEND
 
-**AI-Powered DPR Quality Assessment & Risk Prediction System**
-
-> An intelligent system designed to analyze Detailed Project Reports and support quality assessment and project-risk prediction.
-
-**Core Features**
-
-* 📄 Automated DPR information extraction
-* 🔍 NLP-based document analysis
-* 📊 Rule-based quality assessment
-* 🤖 Machine learning risk prediction
-* ⚡ FastAPI backend architecture
-
-**Stack**
-
-`Python` `spaCy` `NLP` `ML` `FastAPI`
-
-<br>
-
-<a href="https://github.com/Vimal27896/AI-DPR-SYSTEM">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Java  
+REST APIs  
+OOP  
+DBMS  
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🏥 HCC Suspecting Assistant
+### AI / ML
 
-**Risk Adjustment & Documentation Gap Analysis**
-
-> An evidence-based assistant designed to identify potential documentation gaps for human review.
-
-**Core Features**
-
-* 🧾 Diagnosis & encounter history analysis
-* 🔗 ICD-10 → HCC mapping
-* 🔎 Potential documentation gap detection
-* 📌 Evidence-based priority scoring
-* 👨‍⚕️ Human-review workflow
-
-**Stack**
-
-`Python` `FastAPI` `PostgreSQL` `React` `Azure`
-
-<br>
-
-<a href="https://github.com/VamanPrabhakar-03/cognizant-team-project">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Python  
+Machine Learning  
+Deep Learning  
+Generative AI  
 
 </td>
 
-</tr>
+<td width="33%" align="center">
 
-<tr>
+### CLOUD
 
-<td width="50%" valign="top">
-
-### 🧱 MAT-X
-
-**AI-Powered Material Overload Predictor**
-
-> A machine-learning application for predicting construction material requirements from project parameters.
-
-**Core Features**
-
-* 📐 Construction parameter analysis
-* 🤖 ML-based material prediction
-* 🧱 Cement, steel, sand & brick estimation
-* ⚡ FastAPI prediction API
-* 📊 Visualization support
-
-**Stack**
-
-`Python` `Random Forest` `FastAPI` `ML`
-
-<br>
-
-<a href="https://github.com/Vimal27896/Matx">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌋 Landslide AI
-
-**Landslide Detection & Early Warning System**
-
-> An AI and IoT-based solution for detecting landslide-prone regions and supporting early-warning workflows.
-
-**Core Features**
-
-* 🛰️ Satellite imagery analysis
-* 🧠 Deep learning classification
-* 🗺️ Image segmentation
-* 📡 IoT sensor integration
-* 🚨 Early-warning support
-
-**Stack**
-
-`Python` `ResNet50` `DeepLabV3` `Deep Learning` `IoT`
-
-<br>
-
-<a href="https://github.com/Vimal27896/Landslide_Prediction">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Azure  
+Cloud Computing  
+Databases  
+Deployment  
 
 </td>
 
 </tr>
 </table>
 
-</div>
+<br/>
 
-> **Note:** Replace each `VIEW PROJECT` link with the actual repository URL once the corresponding repositories are public.
+<!-- ======================== TECH STACK ======================== -->
 
----
+<h2 align="center">02 — TECH STACK & SKILLS</h2>
 
-## `04` — What I'm Building Toward
+<p align="center">
+  <i>Technologies I work with and continue to explore.</i>
+</p>
 
-<div align="center">
+<p align="center"><b>Programming Languages</b></p>
 
-```text
-                    ┌─────────────────────┐
-                    │   SOFTWARE ENGINEER │
-                    └──────────┬──────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             ▼                 ▼                 ▼
-       ┌───────────┐     ┌───────────┐     ┌───────────┐
-       │   JAVA    │     │  BACKEND  │     │    AI     │
-       │           │     │           │     │   / ML    │
-       └─────┬─────┘     └─────┬─────┘     └─────┬─────┘
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               ▼
-                    ┌─────────────────────┐
-                    │ PRACTICAL SOLUTIONS │
-                    └─────────────────────┘
-```
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,python,mysql,js"
+    alt="Programming Languages"
+  />
+</p>
 
-</div>
+<p align="center"><b>Backend & APIs</b></p>
 
----
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,spring,fastapi,nodejs"
+    alt="Backend Technologies"
+  />
+</p>
 
-## `05` — Certifications
+<p align="center"><b>Frontend</b></p>
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,react"
+    alt="Frontend Technologies"
+  />
+</p>
 
-| Certification                              |        Area       |
-| :----------------------------------------- | :---------------: |
-| 🟦 **Microsoft Azure Developer Associate** | Cloud Development |
-| ☕ **Oracle Certified Java SE 17**          |  Java Development |
-| 🤖 **Oracle Generative AI Professional**   |   Generative AI   |
-| ☁️ **NPTEL Cloud Computing**               |  Cloud Computing  |
+<p align="center"><b>Databases & Cloud</b></p>
 
-</div>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=postgres,mysql,azure"
+    alt="Database and Cloud Technologies"
+  />
+</p>
 
----
+<p align="center"><b>Development Tools</b></p>
 
-## `06` — Experience & Achievements
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"
+    alt="Development Tools"
+  />
+</p>
 
-### 💼 Web Development Intern
+<p align="center">
 
-**Inspire Softech Solutions, Chennai**
+  <img src="https://img.shields.io/badge/Deep%20Learning-05070D?style=for-the-badge&logo=pytorch&logoColor=38BDF8" alt="Deep Learning" />
 
-* Worked with HTML, CSS and JavaScript
-* Built foundational web development experience
-* Worked with DOM manipulation and basic scripting
+  <img src="https://img.shields.io/badge/Generative%20AI-05070D?style=for-the-badge&logo=openai&logoColor=38BDF8" alt="Generative AI" />
 
-### 🏆 Hackathon 3.0 — 1st Place
+  <img src="https://img.shields.io/badge/DBMS-05070D?style=for-the-badge&logo=postgresql&logoColor=38BDF8" alt="DBMS" />
 
-**SRMS College of Engineering and Technology**
+  <img src="https://img.shields.io/badge/Data%20Warehouse-05070D?style=for-the-badge&logo=databricks&logoColor=38BDF8" alt="Data Warehouse" />
 
-<div align="center">
+</p>
 
-### 🥇 FIRST PLACE
+<!-- ======================== FEATURED PROJECT ======================== -->
 
-### ₹50,000 PRIZE
+<h2 align="center">03 — FEATURED PROJECT</h2>
 
-</div>
+<table width="100%" align="center">
+<tr>
+<td align="center" style="padding:24px;">
 
-Achieved through **team collaboration, problem-solving and rapid project development**.
+<h2>AI-Powered DPR Quality Assessment & Risk Prediction System</h2>
 
-### 🎯 Leadership
+<p>
+<i>
+An AI-powered system designed to assess Detailed Project Reports,
+extract important project information, evaluate quality indicators,
+and support risk prediction.
+</i>
+</p>
 
-* Team Leader in hackathon projects
-* Organized college technical symposium activities
-* IEEE Member
-* School-level Volleyball Zonal Participant
+<br/>
 
----
+<img src="https://img.shields.io/badge/Python-05070D?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
+<img src="https://img.shields.io/badge/spaCy-05070D?style=for-the-badge&logo=spacy&logoColor=38BDF8" alt="spaCy" />
+<img src="https://img.shields.io/badge/NLP-05070D?style=for-the-badge&logoColor=38BDF8" alt="NLP" />
+<img src="https://img.shields.io/badge/ML-05070D?style=for-the-badge&logo=scikitlearn&logoColor=38BDF8" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/FastAPI-05070D?style=for-the-badge&logo=fastapi&logoColor=38BDF8" alt="FastAPI" />
 
-## `07` — GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vimal27896&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimal27896&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vimal27896&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
-</div>
-
----
-
-## `08` — Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vimal27896&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## `09` — Currently Learning
-
-<div align="center">
-
-| 🔥 Focus        | 🎯 Goal                        |
-| :-------------- | :----------------------------- |
-| ☕ Java          | Strong backend fundamentals    |
-| 🌱 Spring Boot  | REST API development           |
-| 🗄️ SQL         | Database design & optimization |
-| ☁️ Azure        | Cloud application development  |
-| 🤖 AI / ML      | Practical intelligent systems  |
-| ✨ Generative AI | AI-powered applications        |
-
-</div>
-
----
-
-## `10` — Developer Mindset
-
-<div align="center">
-
-### `"Don't just learn the technology. Build with it."`
-
-<br>
-
-**Learn** → **Understand** → **Build** → **Break** → **Debug** → **Improve**
-
-</div>
-
----
-
-## `11` — Let's Connect
-
-<div align="center">
+<br/><br/>
 
 <a href="https://github.com/Vimal27896">
-<img src="https://img.shields.io/badge/GitHub-Vimal27896-181717?style=for-the-badge&logo=github"/>
+  <img
+    src="https://img.shields.io/badge/Source%20Code-View%20Projects-0B1F3A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=05070D"
+    alt="Source Code"
+  />
+</a>
+
+</td>
+</tr>
+</table>
+
+<!-- ======================== PROJECTS ======================== -->
+
+<h2 align="center">04 — PROJECTS</h2>
+
+<table width="100%" align="center">
+
+<tr>
+
+<td width="50%" align="center" style="padding:20px;">
+
+<h3>🧠 HCC Suspecting Assistant</h3>
+
+<p>
+Risk Adjustment & Documentation Gap Analysis
+</p>
+
+<p>
+Diagnosis and encounter analysis → ICD-10 to HCC mapping →
+potential documentation gaps → evidence-based prioritization →
+human review support.
+</p>
+
+<p>
+<b>Python • FastAPI • PostgreSQL • React • Azure</b>
+</p>
+
+<a href="https://github.com/Vimal27896">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-0B1F3A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="HCC Project" />
+</a>
+
+</td>
+
+<td width="50%" align="center" style="padding:20px;">
+
+<h3>🏗️ MAT-X</h3>
+
+<p>
+AI-Powered Material Overload Predictor & Visualizer
+</p>
+
+<p>
+Predicts construction material requirements from project
+parameters and provides a visual representation of predicted
+material quantities.
+</p>
+
+<p>
+<b>Python • Random Forest • FastAPI • ML</b>
+</p>
+
+<a href="https://github.com/Vimal27896">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-0B1F3A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="MAT-X Project" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" style="padding:20px;">
+
+<h3>🌋 Landslide Detection & Early Warning</h3>
+
+<p>
+AI + IoT based landslide detection and early warning system.
+</p>
+
+<p>
+Deep learning based image analysis combined with sensor
+integration for landslide monitoring and warning support.
+</p>
+
+<p>
+<b>Python • ResNet50 • DeepLabV3 • IoT</b>
+</p>
+
+<a href="https://github.com/Vimal27896">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-0B1F3A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Landslide Project" />
+</a>
+
+</td>
+
+<td width="50%" align="center" style="padding:20px;">
+
+<h3>📄 AI-DPR System</h3>
+
+<p>
+Automated DPR information extraction and quality assessment.
+</p>
+
+<p>
+PDF extraction → NLP processing → structured information →
+quality rules → risk-oriented analysis.
+</p>
+
+<p>
+<b>Python • spaCy • NLP • ML • FastAPI</b>
+</p>
+
+<a href="https://github.com/Vimal27896">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-0B1F3A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="AI-DPR Project" />
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+<p align="center">
+  <sub>Project repository buttons can be replaced with the individual repository URLs when available.</sub>
+</p>
+
+<!-- ======================== CERTIFICATIONS ======================== -->
+
+<h2 align="center">05 — CERTIFICATIONS</h2>
+
+<table width="100%" align="center">
+
+<tr>
+
+<td width="50%" align="center" style="padding:18px;">
+
+<b>Microsoft Azure Developer Associate</b>
+
+<br/>
+
+<sub>March 2026</sub>
+
+</td>
+
+<td width="50%" align="center" style="padding:18px;">
+
+<b>Oracle Certified Java SE 17</b>
+
+<br/>
+
+<sub>March 2026</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" style="padding:18px;">
+
+<b>Oracle Generative AI Professional</b>
+
+<br/>
+
+<sub>August 2025</sub>
+
+</td>
+
+<td width="50%" align="center" style="padding:18px;">
+
+<b>NPTEL Cloud Computing</b>
+
+<br/>
+
+<sub>Certification</sub>
+
+</td>
+
+</tr>
+
+</table>
+
+<!-- ======================== EXPERIENCE ======================== -->
+
+<h2 align="center">06 — EXPERIENCE & ACHIEVEMENTS</h2>
+
+<table width="100%" align="center">
+
+<tr>
+
+<td width="50%" align="center" style="padding:20px;">
+
+<h3>💻 Internship Experience</h3>
+
+<b>Inspire Softech Solutions</b>
+
+<br/>
+
+Web Development Intern  
+<br/>
+JavaScript Intern
+
+<br/><br/>
+
+HTML • CSS • JavaScript • DOM
+
+</td>
+
+<td width="50%" align="center" style="padding:20px;">
+
+<h3>🏆 Hackathon Achievement</h3>
+
+<b>Hackathon 3.0</b>
+
+<br/>
+
+1st Place
+
+<br/>
+
+₹50,000 Prize
+
+<br/><br/>
+
+Team-based innovation and development
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" style="padding:20px;">
+
+<h3>👥 Leadership</h3>
+
+College symposium organization  
+<br/>
+Hackathon team leadership
+
+</td>
+
+<td width="50%" align="center" style="padding:20px;">
+
+<h3>🏐 Activities</h3>
+
+IEEE Member  
+<br/>
+School-level Volleyball Zonal Participation
+
+</td>
+
+</tr>
+
+</table>
+
+<!-- ======================== WHAT I'M BUILDING TOWARD ======================== -->
+
+<h2 align="center">07 — WHAT I'M BUILDING TOWARD</h2>
+
+<p align="center">
+  <i>Growing toward strong software engineering and AI capabilities.</i>
+</p>
+
+```text
+                    VIMALESH S
+                        │
+        ┌───────────────┼───────────────┐
+        │               │               │
+       JAVA           PYTHON            SQL
+        │               │               │
+        ▼               ▼               ▼
+    BACKEND           AI / ML        DATABASES
+        │               │               │
+        └───────────────┼───────────────┘
+                        │
+                        ▼
+              GENERATIVE AI
+                        │
+                        ▼
+              CLOUD TECHNOLOGIES
+                        │
+                        ▼
+             PRODUCTION SYSTEMS
+```
+
+<!-- ======================== GITHUB ANALYTICS ======================== -->
+
+<h2 align="center">08 — GITHUB ANALYTICS</h2>
+
+<p align="center">
+  <i>Development activity, languages and contribution progress.</i>
+</p>
+
+<p align="center">
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=Vimal27896&show_icons=true&bg_color=05070D&title_color=38BDF8&text_color=E5E7EB&icon_color=38BDF8&border_color=0B1F3A&border_radius=10"
+    width="48%"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vimal27896&layout=compact&bg_color=05070D&title_color=38BDF8&text_color=E5E7EB&border_color=0B1F3A&border_radius=10"
+    width="42%"
+    alt="Top Languages"
+  />
+
+</p>
+
+<p align="center">
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Vimal27896&theme=dark&background=05070D&border=0B1F3A&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=94A3B8"
+    width="65%"
+    alt="GitHub Streak"
+  />
+
+</p>
+
+<!-- ======================== CONTRIBUTION ======================== -->
+
+<h2 align="center">09 — CONTRIBUTION JOURNEY</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+<!-- ======================== CURRENTLY LEARNING ======================== -->
+
+<h2 align="center">10 — CURRENTLY LEARNING</h2>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Java-Deepening%20Knowledge-05070D?style=for-the-badge&logo=openjdk&logoColor=38BDF8" alt="Java" />
+
+  <img src="https://img.shields.io/badge/Spring%20Boot-Learning-05070D?style=for-the-badge&logo=springboot&logoColor=38BDF8" alt="Spring Boot" />
+
+  <img src="https://img.shields.io/badge/SQL-Advanced%20Practice-05070D?style=for-the-badge&logo=mysql&logoColor=38BDF8" alt="SQL" />
+
+  <img src="https://img.shields.io/badge/Azure-Cloud%20Technologies-05070D?style=for-the-badge&logo=microsoftazure&logoColor=38BDF8" alt="Azure" />
+
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Continuous%20Learning-05070D?style=for-the-badge&logo=python&logoColor=38BDF8" alt="AI ML" />
+
+  <img src="https://img.shields.io/badge/Generative%20AI-Exploring-05070D?style=for-the-badge&logo=google&logoColor=38BDF8" alt="Generative AI" />
+
+</p>
+
+<!-- ======================== MINDSET ======================== -->
+
+<h2 align="center">11 — DEVELOPER MINDSET</h2>
+
+<table width="100%" align="center">
+
+<tr>
+
+<td width="25%" align="center">
+
+### LEARN
+
+Continuously explore  
+new technologies.
+
+</td>
+
+<td width="25%" align="center">
+
+### BUILD
+
+Turn ideas into  
+working systems.
+
+</td>
+
+<td width="25%" align="center">
+
+### TEST
+
+Validate through  
+experimentation.
+
+</td>
+
+<td width="25%" align="center">
+
+### IMPROVE
+
+Iterate toward  
+better solutions.
+
+</td>
+
+</tr>
+
+</table>
+
+<!-- ======================== CONNECT ======================== -->
+
+<h2 align="center">12 — LET'S CONNECT</h2>
+
+<p align="center">
+  <i>
+    Interested in software development, backend engineering,
+    AI/ML, Generative AI and technology projects.
+  </i>
+</p>
+
+<br/>
+
+<p align="center">
+
+<a href="https://github.com/Vimal27896">
+  <img
+    src="https://skillicons.dev/icons?i=github"
+    width="60"
+    alt="GitHub"
+  />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/vimalesh-s-a474a7317/">
+  <img
+    src="https://skillicons.dev/icons?i=linkedin"
+    width="60"
+    alt="LinkedIn"
+  />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Vimal27896">
+  <img
+    src="https://img.shields.io/badge/GitHub-Follow%20%26%20Explore-0B1F3A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=05070D"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/vimalesh-s-a474a7317/">
-<img src="https://img.shields.io/badge/LinkedIn-Vimalesh%20S-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=05070D"
+    alt="LinkedIn"
+  />
 </a>
 
-</div>
+</p>
 
-<br>
+<!-- ======================== FOOTER ======================== -->
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,50:0B1F3A,100:05070D&height=120&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+</p>
 
-### 🤝 Open to learning, collaborating and building meaningful projects.
+<p align="center">
+  <b>Learn → Build → Test → Improve</b>
+</p>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:161b22,100:0d1117&height=120&section=footer"/>
-
-</div>
-```
-
+<p align="center">
+  <sub>Designed and maintained by Vimalesh S</sub>
+</p>
