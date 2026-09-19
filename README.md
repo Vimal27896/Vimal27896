@@ -254,7 +254,7 @@ and support risk prediction.
 
 <br/><br/>
 
-<a href="https://github.com/Vimal27896">
+<a href="https://github.com/Vimal27896/AI-DPR-SYSTEM">
   <img
     src="https://img.shields.io/badge/Source%20Code-View%20Projects-0B1F3A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=05070D"
     alt="Source Code"
@@ -291,7 +291,7 @@ human review support.
 <b>Python • FastAPI • PostgreSQL • React • Azure</b>
 </p>
 
-<a href="https://github.com/Vimal27896">
+<a href="https://github.com/VamanPrabhakar-03/cognizant-team-project">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-0B1F3A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="HCC Project" />
 </a>
 
@@ -315,7 +315,7 @@ material quantities.
 <b>Python • Random Forest • FastAPI • ML</b>
 </p>
 
-<a href="https://github.com/Vimal27896">
+<a href="https://github.com/Vimal27896/Matx">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-0B1F3A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="MAT-X Project" />
 </a>
 
@@ -342,7 +342,7 @@ integration for landslide monitoring and warning support.
 <b>Python • ResNet50 • DeepLabV3 • IoT</b>
 </p>
 
-<a href="https://github.com/Vimal27896">
+<a href="https://github.com/Vimal27896/Landslide_Prediction">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-0B1F3A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Landslide Project" />
 </a>
 
@@ -365,7 +365,7 @@ quality rules → risk-oriented analysis.
 <b>Python • spaCy • NLP • ML • FastAPI</b>
 </p>
 
-<a href="https://github.com/Vimal27896">
+<a href="https://github.com/Vimal27896/AI-DPR-SYSTEM">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-0B1F3A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="AI-DPR Project" />
 </a>
 
